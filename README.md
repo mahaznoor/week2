@@ -1,2 +1,3 @@
-# week2
-week2
+# Week2
+
+Titanic dataset analysis project.
